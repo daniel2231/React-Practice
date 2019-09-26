@@ -15,7 +15,7 @@ const App = () => {
             </ApprovalCard>
             <ApprovalCard>
                 <CommentDetail 
-                    author="Sam" 
+                    author="박서영" 
                     timeAgo="Today at 4:55PM"
                     content="Great Article!"
                     avatar={faker.image.avatar()}
